@@ -1,0 +1,19 @@
+experiences:
+
+- place: "ETH Zurich"
+  time: "2024 - now"
+  title: "Ph.D. Candidate"
+  subtitle: "Department of Mathematics"
+  category: "work"
+
+- place: "University of Mannheim"
+  time: "2022 - 2024"
+  title: "M.Sc. Mathematics"
+  subtitle: "distinction, final grade 1.0"
+  category: "school"
+
+- place: "University of Mannheim"
+  time: "2018 - 2021"
+  title: "B.Sc. Mathematics in Business and Economics & B.Sc. Economics"
+  subtitle: "distinction, final grade 1.0"
+  category: "school"
