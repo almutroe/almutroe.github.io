@@ -1,15 +1,14 @@
 papers:
-
+  - title: "Randomstrasse101: Open Problems of 2025"
+    authors: "Afonso S. Bandeira, Daniil Dmitriev, Kevin Lucca, Petar Nizić-Nikolac, <b>Almut Roedder</b>"
+    venue: "Available online. 2026."
+    paper_pdf: "https://arxiv.org/abs/2603.29571"
+    selected: y
+    
   - title: "Theoretical guarantees for neural estimators in parametric statistics"
     authors: "<b>Almut Roedder</b>, M. Hentschel, S. Engelke"
     venue: "Preprint. 2025."
     paper_pdf: "https://arxiv.org/abs/2506.18508"
-    selected: y
-
-  - title: "Randomstrasse101: Open Problems of 2025"
-    authors: "Afonso S. Bandeira, Daniil Dmitriev, Kevin Lucca, Petar Nizić-Nikolac, <b>Almut Roedder</b>"
-    venue: "Available online. 2025."
-    paper_pdf: "https://arxiv.org/abs/2603.29571"
     selected: y
 
   - title: "Randomstrasse101: Open Problems of 2024"
