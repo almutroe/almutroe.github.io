@@ -1,10 +1,16 @@
 papers:
+  - title: "Mixing of Glauber Dynamics on High Overlap Gibbs Measures"
+    authors: "Afonso S. Bandeira, Ahmed El Alaoui, <b>Almut Roedder</b>"
+    venue: "Available online. 2026."
+    paper_pdf: "https://arxiv.org/abs/2607.06813"
+    selected: y
+
   - title: "Randomstrasse101: Open Problems of 2025"
     authors: "Afonso S. Bandeira, Daniil Dmitriev, Kevin Lucca, Petar Nizić-Nikolac, <b>Almut Roedder</b>"
     venue: "Available online. 2026."
     paper_pdf: "https://arxiv.org/abs/2603.29571"
     selected: y
-    
+
   - title: "Theoretical guarantees for neural estimators in parametric statistics"
     authors: "<b>Almut Roedder</b>, M. Hentschel, S. Engelke"
     venue: "Preprint. 2025."
